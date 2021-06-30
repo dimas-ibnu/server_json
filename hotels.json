@@ -21,16 +21,10 @@
     ],
     "reviews": [
       {
-        "message": "Hi, really nice place!!",
-        "user": "Nani",
-        "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
-        "rate": 4
-      },
-      {
         "message": "Could be better :(",
         "user": "Ellioto",
         "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
-        "rate": 3
+        "rate": 4
       },
       {
         "message": "Best place to stay :)",
@@ -58,30 +52,24 @@
     "imageUrl": "https://www.ahstatic.com/photos/1867_ho_00_p_1024x768.jpg",
     "rooms": [
       {
-        "imageUrl": "https://picsum.photos/seed/picsum/200/300",
-        "name": "Room abc"
+        "imageUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name": "Standard Room"
       },
       {
-        "imageUrl": "https://kivea.net/wp-content/uploads/2019/08/73118462.jpg",
-        "name": "Room def"
+        "imageUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name": "Premium Room"
       },
       {
-        "imageUrl": "https://www.ggrasia.com/wp-content/uploads/2015/05/JW-Marriot-hotel-room-Galaxy-Macau-Phase-2-e1432637852679.jpg",
-        "name": "Room ghi"
+        "imageUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name": "Deluxe Room"
       }
     ],
     "reviews": [
       {
-        "message": "Hi, really nice place!!",
-        "user": "Nani",
-        "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
-        "rate": 4
-      },
-      {
         "message": "Could be better :(",
         "user": "Ellioto",
         "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
-        "rate": 3
+        "rate": 4
       },
       {
         "message": "Best place to stay :)",
@@ -109,35 +97,29 @@
     "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1024x768/209/209735787.jpg",
     "rooms": [
       {
-        "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
-        "name": "Room X"
+        "imageUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name": "Standard Room"
       },
       {
-        "imageUrl": "https://ak.picdn.net/shutterstock/videos/5677895/thumb/1.jpg",
-        "name": "Room Y"
+        "imageUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name": "Premium Room"
       },
       {
-        "imageUrl": "https://www.ggrasia.com/wp-content/uploads/2015/05/JW-Marriot-hotel-room-Galaxy-Macau-Phase-2-e1432637852679.jpg",
-        "name": "Room Z"
+        "imageUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name": "Deluxe Room"
       }
     ],
     "reviews": [
       {
-        "message": "Hi, really nice place!!",
-        "user": "Messi",
-        "userImage": "https://image.flaticon.com/icons/png/512/805/805404.png",
+        "message": "Could be better :(",
+        "user": "Ellioto",
+        "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
         "rate": 4
       },
       {
-        "message": "Could be better :(",
-        "user": "Neymar",
-        "userImage": "https://cdn3.iconfinder.com/data/icons/diversity-avatars-vol-2/64/footballer-soccer-neymar-njr-psg-brazil-512.png",
-        "rate": 3
-      },
-      {
         "message": "Best place to stay :)",
-        "user": "Cristiano",
-        "userImage": "https://cdn4.iconfinder.com/data/icons/diversity-v2-0-volume-03/64/footballers-cristiano-ronaldo-512.png",
+        "user": "Matti",
+        "userImage": "https://image.ibb.co/gmbNQT/matthew.png",
         "rate": 5
       }
     ],
@@ -149,10 +131,6 @@
       {
         "name": "Parking",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Parking_icon.svg/1200px-Parking_icon.svg.png"
-      },
-      {
-        "name": "Beach view",
-        "imageUrl": "https://cdn4.iconfinder.com/data/icons/summer-and-the-beach-in-filled-outline-style/512/Summer_and_The_Beach_in_Filled_Outline_Style-16-512.png"
       }
     ]
   }
